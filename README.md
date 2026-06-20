@@ -64,7 +64,7 @@ Full Stack, Flutter, E-commerce & Cloud Developer leveraging AI-augmented develo
 
 ### Web Apps
 
-#### **Next.js E-commerce Platform (jugaaadi.com)**
+#### **Next.js E-commerce Platform ([jugaaadi.com](https://jugaaadi.com/))**
 **Role:** Full Stack Developer & System Architect | September 2025 – Present  
 **Tech Stack:** Next.js 14, TypeScript, Prisma, PostgreSQL, Redis, Medusa.js, MinIO, Docker, Prometheus, Grafana
 
@@ -75,7 +75,7 @@ Full Stack, Flutter, E-commerce & Cloud Developer leveraging AI-augmented develo
 - **Object Storage & SMTP:** Implemented MinIO for S3-compatible object storage and configured custom SMTP nodes for transactional email reliability.
 - **Reliability & Security:** Established automated snapshot routines and AOF persistence for Redis to ensure data durability; implemented role-based access control (RBAC) and security-hardened headers.
 
-#### **School Management System – school.atmez.ai (SaaS Ready)**
+#### **School Management System – [school.atmez.ai](https://school.atmez.ai) (SaaS Ready)**
 **Role:** Product Lead & Full Stack Architect | July 2024 - November 2024  
 **Tech Stack:** C#, ASP.NET Core, SQL Server, Entity Framework
 
@@ -84,7 +84,7 @@ Full Stack, Flutter, E-commerce & Cloud Developer leveraging AI-augmented develo
 - Implemented secure Role-Based Access Control (RBAC), student records, attendance, and admin dashboards.
 - Designed high-performance reporting modules and database schemas optimized for educational institutions.
 
-#### **Atruha Finance – atruhafinance.com**
+#### **Atruha Finance – [atruhafinance.com](https://atruhafinance.com/)**
 **Role:** Full Stack Developer | May 2025 - June 2025  
 **Tech Stack:** React, TypeScript, Node.js, HTML5, CSS3
 
@@ -115,7 +115,7 @@ Full Stack, Flutter, E-commerce & Cloud Developer leveraging AI-augmented develo
 ### Android / iOS Apps
 
 #### **Trace & Learn: Arabic - Educational Mobile App**
-[Google Play (Arabic)](https://play.google.com/store/apps/details?id=com.atmez.trace_and_learn_arabic) · [Google Play (English)](https://play.google.com/store/apps/details?id=com.atmez.trace_and_learn_english)  
+[Google Play (Arabic)](https://play.google.com/store/apps/details?id=com.arabictracingapp.game) · [Google Play (English)](https://play.google.com/store/apps/details?id=com.zea.trace.english)  
 **Role:** Lead Mobile Developer, Product Owner & UI/UX Designer | April 2025 - May 2025  
 **Tech Stack:** Flutter, Dart, Bloc, Custom Audio
 
@@ -124,7 +124,7 @@ Full Stack, Flutter, E-commerce & Cloud Developer leveraging AI-augmented develo
 - Implemented custom audio, Bloc state management, and offline storage
 
 #### **Islamic Hijri Calendar - Cross-Platform Application**
-[Google Play](https://play.google.com/store/apps/details?id=com.atmez.islamic_calendar) · [Apple App Store](https://apps.apple.com/app/islamic-hijri-calendar/id6738903637)  
+[Google Play](https://play.google.com/store/apps/details?id=com.atmezai.islamichijricalendar) · [Apple App Store](https://apps.apple.com/app/islamic-hijri-calendar/id6749267607)  
 **Role:** Lead Developer, Localization Specialist & Firebase Engineer | January 2025 - March 2025  
 **Tech Stack:** Flutter, Firebase, Riverpod, Hive, FCM
 
@@ -133,7 +133,7 @@ Full Stack, Flutter, E-commerce & Cloud Developer leveraging AI-augmented develo
 - Integrated email, Google Sign-in, FCM push notifications, and offline Hive storage
 
 #### **Video Splitter App – Modern Flutter Migration (10,000+ downloads)**
-[Google Play](https://play.google.com/store/apps/details?id=com.atmez.video_splitter)  
+[Google Play](https://play.google.com/store/apps/details?id=com.gws.avcproto)  
 **Role:** Mobile Developer & Migration Specialist | March 2025 - April 2025  
 **Tech Stack:** Flutter, Dart, FFmpeg
 
